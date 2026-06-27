@@ -1,0 +1,12 @@
+{
+  "model": "./models/ornith-1.0-35b-q3_k_m.gguf",
+  "split_mode": 1,
+  "split_0": 28,
+  "split_1": 20,
+  "ctx_size": 4096,
+  "batch_size": 512,
+  "threads": 8,
+  "host": "0.0.0.0",
+  "port": 8080,
+  "log_disable": false
+}
